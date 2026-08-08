@@ -1,0 +1,14 @@
+L.I.T.H.A. iPhone/GitHub flat upload package
+
+Upload ALL files in this folder directly to the ROOT of your GitHub repository.
+Do not upload this folder itself and do not upload the ZIP file.
+Do not create an assets folder.
+Make sure index.html, styles.css, app.js, logo-header-white.png and hero-models.jpg are all visible together in the repository file list.
+
+GitHub Pages settings:
+Source: Deploy from a branch
+Branch: main
+Folder: /(root)
+Custom domain: leave empty for now
+
+After commit, wait 1-3 minutes and refresh your GitHub Pages URL.
