@@ -1,0 +1,303 @@
+[
+  {
+    "id": "founder-tee-black",
+    "name": "Founder Heavyweight Tee",
+    "price": 649,
+    "category": "men",
+    "collection": "Founder 001",
+    "badge": "FOUNDING DROP",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "tone": "black",
+    "symbol": "L",
+    "desc": "240gsm heavyweight cotton tee with an oversized silhouette and restrained L.I.T.H.A. identity."
+  },
+  {
+    "id": "founder-tee-cream",
+    "name": "Founder Heavyweight Tee \u2014 Bone",
+    "price": 649,
+    "category": "men",
+    "collection": "Founder 001",
+    "badge": "NEW",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "tone": "cream",
+    "symbol": "L",
+    "desc": "The Founder tee in bone: heavyweight cotton, dropped shoulder and quiet statement branding."
+  },
+  {
+    "id": "ascend-hoodie",
+    "name": "ASCEND Oversized Hoodie",
+    "price": 1199,
+    "category": "men",
+    "collection": "Founder 001",
+    "badge": "BESTSELLER",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "tone": "black",
+    "symbol": "A",
+    "desc": "Heavy fleece hoodie shaped for travel, training days and after-dark city movement."
+  },
+  {
+    "id": "motion-track",
+    "name": "Motion Tracksuit Jacket",
+    "price": 1399,
+    "category": "men",
+    "collection": "Motion",
+    "badge": "LIMITED",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "tone": "charcoal",
+    "symbol": "M",
+    "desc": "Technical zip jacket with clean lines, subtle geometry and a structured athletic fit."
+  },
+  {
+    "id": "motion-pant",
+    "name": "Motion Track Pant",
+    "price": 1099,
+    "category": "men",
+    "collection": "Motion",
+    "badge": "NEW",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "tone": "charcoal",
+    "symbol": "M",
+    "desc": "Tapered performance track pant designed to pair with the Motion jacket."
+  },
+  {
+    "id": "performance-tee",
+    "name": "Performance Tee",
+    "price": 599,
+    "category": "active",
+    "collection": "Performance",
+    "badge": "CORE",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "tone": "black",
+    "symbol": "P",
+    "desc": "Lightweight training tee with a clean athletic cut and sweat-ready construction."
+  },
+  {
+    "id": "founder-vest",
+    "name": "Founder Training Vest",
+    "price": 499,
+    "category": "active",
+    "collection": "Performance",
+    "badge": "GYM",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "tone": "black",
+    "symbol": "F",
+    "desc": "Minimal training vest for high-output sessions and warm-weather movement."
+  },
+  {
+    "id": "women-motion-set",
+    "name": "Women Motion Set",
+    "price": 1299,
+    "category": "women",
+    "collection": "Motion",
+    "badge": "SET",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tone": "cream",
+    "symbol": "L",
+    "desc": "Sculpted two-piece active set balancing support, stretch and refined lifestyle styling."
+  },
+  {
+    "id": "women-hoodie",
+    "name": "Women Oversized Hoodie",
+    "price": 1099,
+    "category": "women",
+    "collection": "Founder 001",
+    "badge": "CORE",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tone": "black",
+    "symbol": "A",
+    "desc": "Relaxed premium hoodie with an oversized profile and understated ASCEND detail."
+  },
+  {
+    "id": "women-track",
+    "name": "Women Essential Tracksuit",
+    "price": 1699,
+    "category": "women",
+    "collection": "Motion",
+    "badge": "SET",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tone": "charcoal",
+    "symbol": "T",
+    "desc": "Full two-piece travel tracksuit designed for comfort without losing structure."
+  },
+  {
+    "id": "women-leggings",
+    "name": "Sculpt Leggings",
+    "price": 749,
+    "category": "women",
+    "collection": "Performance",
+    "badge": "ACTIVE",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tone": "black",
+    "symbol": "S",
+    "desc": "High-rise sculpt leggings with flexible compression and a clean matte finish."
+  },
+  {
+    "id": "women-bra",
+    "name": "Sculpt Training Bra",
+    "price": 599,
+    "category": "women",
+    "collection": "Performance",
+    "badge": "ACTIVE",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tone": "black",
+    "symbol": "S",
+    "desc": "Supportive training bra designed to pair with Sculpt Leggings."
+  },
+  {
+    "id": "cap-core",
+    "name": "L.I.T.H.A. Core Cap",
+    "price": 399,
+    "category": "accessories",
+    "collection": "Core",
+    "badge": "CORE",
+    "sizes": [
+      "One Size"
+    ],
+    "tone": "black",
+    "symbol": "L",
+    "desc": "Six-panel cap with tonal branding and an adjustable rear closure."
+  },
+  {
+    "id": "bucket-hat",
+    "name": "Journey Bucket Hat",
+    "price": 449,
+    "category": "accessories",
+    "collection": "Journey",
+    "badge": "TRAVEL",
+    "sizes": [
+      "S/M",
+      "L/XL"
+    ],
+    "tone": "cream",
+    "symbol": "J",
+    "desc": "Soft-structure bucket hat inspired by movement, departure halls and long summer days."
+  },
+  {
+    "id": "gym-bag",
+    "name": "Ascend Gym Bag",
+    "price": 899,
+    "category": "accessories",
+    "collection": "Journey",
+    "badge": "TRAVEL",
+    "sizes": [
+      "One Size"
+    ],
+    "tone": "black",
+    "symbol": "A",
+    "desc": "Structured carry-all for gym, work and short-haul travel with multiple utility pockets."
+  },
+  {
+    "id": "travel-tote",
+    "name": "Journey Utility Tote",
+    "price": 699,
+    "category": "accessories",
+    "collection": "Journey",
+    "badge": "NEW",
+    "sizes": [
+      "One Size"
+    ],
+    "tone": "olive",
+    "symbol": "J",
+    "desc": "Everyday utility tote built for commute, studio, airport and weekend movement."
+  },
+  {
+    "id": "fragrance-noir",
+    "name": "ASCEND Noir Eau de Parfum",
+    "price": 899,
+    "category": "fragrance",
+    "collection": "ASCEND",
+    "badge": "SIGNATURE",
+    "sizes": [
+      "100ml"
+    ],
+    "tone": "black",
+    "symbol": "N",
+    "desc": "Warm, smoky and commanding. A deep evening scent built around spice, amber, vanilla and oud."
+  },
+  {
+    "id": "fragrance-lumiere",
+    "name": "ASCEND Lumi\u00e8re Eau de Parfum",
+    "price": 899,
+    "category": "fragrance",
+    "collection": "ASCEND",
+    "badge": "SIGNATURE",
+    "sizes": [
+      "100ml"
+    ],
+    "tone": "cream",
+    "symbol": "L",
+    "desc": "Bright, warm and magnetic. A polished companion with luminous sweetness, woods and soft spice."
+  }
+]
