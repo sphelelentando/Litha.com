@@ -1,0 +1,17 @@
+L.I.T.H.A. catalogue-connected build
+
+Upload ALL files from this folder to the ROOT of your GitHub repository.
+Important files:
+- index.html
+- shop.html
+- styles.css
+- app.js
+- products.js
+- litha-product-01.jpg ... litha-product-50.jpg
+
+GitHub Pages:
+Branch: main
+Folder: /(root)
+
+After upload, open:
+YOUR-GITHUB-PAGES-URL/shop.html
